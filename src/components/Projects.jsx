@@ -15,7 +15,7 @@ const Projects = () => {
         flexDirection: "column",
         padding: "100px",
         boxSizing: "border-box",
-        marginTop:'30px'
+        paddingTop:'30px'
       }}
     >
       <div
