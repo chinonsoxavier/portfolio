@@ -13,7 +13,7 @@ const Projects = () => {
         background: "#0a192f",
         color: "white",
         flexDirection: "column",
-        padding: "100px",
+        padding: "10px",
         boxSizing: "border-box",
         paddingTop:'30px'
       }}
