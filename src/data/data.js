@@ -2,7 +2,8 @@ import Netflix from "../assets/projects/netflixClone.png";
 import lamaEcommerce from "../assets/projects/lamaEcommerce.png";
 import envie from "../assets/projects/envie.png";
 import Karbox from "../assets/projects/Karbox.png";
-import aai from '../assests/projects/aai.png';
+// import aai from '../assests/projects/aai.png';
+import aai from "../assets/projects/aai.png"
 import airbnb from '../assets/projects/airbnb.png'
 import Project3 from "../assets/projects/Project3.png";
 import Todo from "../assets/projects/Project4.png";
@@ -60,10 +61,10 @@ export const data = [
   {
     id: 7,
     name: "Aai",
-    image: Todo,
+    image: aai,
     Desc: "I built this web app in order to get better with react animations. You can see how seamless the transitioning and animtion feels when scrolling through this website",
-    github: "",
-    live: "",
+    github: "https://github.com/chinonsoxavier/Aai",
+    live: "https://aai-gold.vercel.app/",
   },
   {
     id: 8,
