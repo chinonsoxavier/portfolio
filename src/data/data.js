@@ -2,7 +2,7 @@ import Netflix from "../assets/projects/netflixClone.png";
 import lamaEcommerce from "../assets/projects/lamaEcommerce.png";
 import envie from "../assets/projects/envie.png";
 import Karbox from "../assets/projects/Karbox.png";
-
+import aai from '../assests/projects/aai.png';
 import airbnb from '../assets/projects/airbnb.png'
 import Project3 from "../assets/projects/Project3.png";
 import Todo from "../assets/projects/Project4.png";
@@ -59,9 +59,9 @@ export const data = [
   },
   {
     id: 7,
-    name: "To Do List",
+    name: "Aai",
     image: Todo,
-    Desc: "I have built To Do List in order to get better with Javascript. You can add tasks and remove it all together with Delete All or just one by one with a button remove. I have also implemented local storage for this project.",
+    Desc: "I built this web app in order to get better with react animations. You can see how seamless the transitioning and animtion feels when scrolling through this website",
     github: "",
     live: "",
   },

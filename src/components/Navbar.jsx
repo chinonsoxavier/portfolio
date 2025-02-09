@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
-      <div>
+      <div className='text-[rgb(22, 242, 179)] font-semibold text-2xl' >
         Chinonso Xavier
         {/* <img src={Logo} alt='Logo Image' style={{ width: '200px' }} /> */}
       </div>
